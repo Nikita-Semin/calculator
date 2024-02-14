@@ -1,0 +1,33 @@
+body {
+	font-family: 'Times New Roman', Times, sans-serif;
+	background-color: #cff7bcfa;
+	text-align: center;
+}
+
+h1 {
+	color: #333;
+	padding: 20px;
+}
+
+input,
+button {
+	margin: 10px;
+	padding: 8px;
+	font-size: 16px;
+}
+
+button {
+	background-color: #4caf50;
+	color: white;
+	border: transparent;
+}
+
+button:hover {
+	background-color: #45a049;
+}
+
+.result {
+	font-size: 24px;
+	color: #333;
+	margin-top: 20px;
+}
